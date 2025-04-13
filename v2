@@ -23,7 +23,7 @@ getgenv().Dopamine = {
         ["NearestCursorAimpart"] = False,
     },
     Custom = {
-        ["Shake"] = true,
+        ["Shake"] = false,
         ["Smoothness"] = true,
         ["AirShakeValue"] = 4,
         ["AirSmoothnessValue"] = 0.1155,
