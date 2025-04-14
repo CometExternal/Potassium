@@ -16,14 +16,14 @@ getgenv().Dopamine = {
         ["Keybind"] = "E",
         ["Predict"] = true,
         ["Prediction"] = 0.14,
-        ["SmoothnessValue"] = 0.5,
+        ["SmoothnessValue"] = 0.3,
         ["Shake"] = true,
         ["ShakeValue"] = 1,
         ["Aimpart"] = "HumanoidRootPart",
-        ["NearestCursorAimpart"] = False,
+        ["NearestCursorAimpart"] = true,
     },
     Custom = {
-        ["Shake"] = true,
+        ["Shake"] = false,
         ["Smoothness"] = true,
         ["AirShakeValue"] = 4,
         ["AirSmoothnessValue"] = 0.1155,
@@ -32,7 +32,7 @@ getgenv().Dopamine = {
     },
     Fov = {
         Silent = {
-            ["Visible"] = true,
+            ["Visible"] = false,
             ["Filled"] = true,
             ["Size"] = 100,
             ["Thickness"] = 2.5,
