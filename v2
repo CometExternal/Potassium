@@ -7,7 +7,7 @@ getgenv().Dopamine = {
         ["UseKeybind"] = true,
         ["Keybind"] = "p",
         ["Predict"] = true,
-        ["Prediction"] = 0.0001,
+        ["Prediction"] = 0.115,
         ["Aimpart"] = "UpperTorso",
         ["NearestCursorAimpart"] = true,
     }, 
